@@ -4,7 +4,7 @@ Aden Hive is a Python-based agent framework. Configuration is handled through en
 
 ## Configuration Overview
 
-```
+``
 ~/.hive/configuration.json  (global defaults: provider, model, max_tokens)
 Environment variables        (API keys, runtime flags)
 Agent config.py              (per-agent settings: model, tools, storage)
